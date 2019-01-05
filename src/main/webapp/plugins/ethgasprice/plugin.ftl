@@ -34,7 +34,8 @@
 
 <#--<script async src="https://static-solo.b3log.org/plugins/kanbanniang/assert/index.js"></script>-->
 <div class="solo-kanbanniang">
-    <canvas id="gasPrice" width="150" height="150" style="position:fixed; z-index:999; top:0;">
+    <canvas id="gasPrice" width="150" height="150" style="position:fixed; z-index:999; top:100px;">
+
 </div>
 <script type="text/javascript">
 
