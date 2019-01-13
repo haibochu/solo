@@ -33,27 +33,27 @@
 <link type="text/css" rel="stylesheet" href="${staticServePath}/plugins/qrcode/index.css"/>
 <#--<script src=${staticServePath}"/src/main/webapp/js/admin/plugin.js"></script>-->
 
-<script src="//imgslim.geekpark.net/ajax/libs/babel-polyfill/6.23.0/polyfill.min.js"></script>
-<script async="" src="https://www.google-analytics.com/analytics.js"></script>
-<script async="async" src="//imgslim.geekpark.net/autotrack-41efffe793b9098b5e4d45ad2c767b1e.js"></script>
+<#--<script src="//imgslim.geekpark.net/ajax/libs/babel-polyfill/6.23.0/polyfill.min.js"></script>-->
+<#--<script async="" src="https://www.google-analytics.com/analytics.js"></script>-->
+<#--<script async="async" src="//imgslim.geekpark.net/autotrack-41efffe793b9098b5e4d45ad2c767b1e.js"></script>-->
 
 
 
-<script src="/dist/manifest.f5357554cd2054064d9f.js" defer=""></script>
-<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
-<script src="//imgslim.geekpark.net/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="//imgslim.geekpark.net/dist/js/hotkeys.js"></script>
-<script src="https://static.lkme.cc/linkedme.min.js"></script>
+<#--<script src="/dist/manifest.f5357554cd2054064d9f.js" defer=""></script>-->
+<#--<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>-->
+<#--<script src="//imgslim.geekpark.net/ajax/libs/jquery/3.1.1/jquery.min.js"></script>-->
+<#--<script src="//imgslim.geekpark.net/dist/js/hotkeys.js"></script>-->
+<#--<script src="https://static.lkme.cc/linkedme.min.js"></script>-->
 
 
-<script async src="https://static-solo.b3log.org/plugins/kanbanniang/assert/index.js"></script>
+<#--<script async src="https://static-solo.b3log.org/plugins/kanbanniang/assert/index.js"></script>-->
 <div id="feedback">
 <div class="container clear">
 <div class="wr-fx">
 
     <div class="fixed-tools show">
         <a class="tools-item tools-erweima">
-            <i class="iconfont icon-qrcode"></i>
+            <i class="icon-qrcode">联</i>
         </a>
         <div class="qr-group">
             <div class="tabs">
@@ -84,11 +84,11 @@
             </div>
         </div>
         <#--<a data-tooltip="意见反馈" class="tools-item tip"><i class="iconfont icon-feedback"></i></a>-->
-        <a data-tooltip="返回顶部" class="tools-item gotop tip" onclick="Util.goTop()">
-            <i class="iconfont icon-gotop">
+        <#--<a data-tooltip="返回顶部" class="tools-item gotop tip" onclick="Util.goTop()">-->
+            <#--<i class="iconfont icon-gotop">-->
 
-            </i>
-        </a>
+            <#--</i>-->
+        <#--</a>-->
     </div>
     <#--<div id="qrcode" width="150" height="150" style="position:fixed; z-index:999; top:250px;">-->
         <#--<img class="fit-picture"-->
