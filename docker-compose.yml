@@ -3,7 +3,7 @@ version: '3.1'
 services:
 
   web:
-    image: registry.cn-hongkong.aliyuncs.com/91qnw/solo 
+    image: registry.cn-hongkong.aliyuncs.com/91qnw/solo:v2.9.8p
     build:
       context: ./
       dockerfile: Dockerfile
